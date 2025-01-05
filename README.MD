@@ -76,7 +76,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <p>&nbsp&nbsp&nbspEmerson Ferreira<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/oemeferreira">GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/oemeferreira">LinkedIn</a>&nbsp;</p>
+    <a href="https://linkedin.com/in/oemeferreira">Linkedin</a>&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
