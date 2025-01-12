@@ -13,25 +13,25 @@
 <p align="center">
 <img 
     src="./assets/cover.png"
-    width="400"  
+    width="500"  
 />
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/oemeferreira/prompts-para-criar-ebooks/blob/main/output/ebook_inteligencia_artificial_pme.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Ideogram](https://ideogram.ai/)
+- [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
 
@@ -40,20 +40,25 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  Estrutura  | Atue como um redator experiente e crie um ebook educativo sobre IA em Pequenas e Médias Empresas, com o objetivo de guiar empreendedores e gestores na compreensão e aplicação dos conceitos envolvidos. Estruture o ebook em 4 capítulos, explorando temas como aplicações de IA para reduzir custos e aumentar eficiência, soluções acessíveis para PMEs, como começar com IA sem grande orçamento, e escreva de maneira amigavel. Use uma linguagem clara, prática e acessível , com exemplos  e exercícios práticos quando necessário, para que o leitor consiga saber, ao final da leitura, implementar soluções básicas de IA em negócios pequenos. O tom deve ser informativo, prático e encorajador para engajar o publico, tornando o conteúdo útil e aplicável. Primeiramente crie a estrutura perfeita desse ebook.                                                        |
+| Introdução | desenvolva a introdução |
+| Capítulo 1 | desenvolva o capítulo 1 |
+| Capítulo 2 | desenvolva o capítulo 2 |
+| Capítulo 3 | desenvolva o capítulo 3 |
+| Capítulo 4 | desenvolva o capítulo 4 |
+| Conclusão | desenvolva a conclusão |
 
 
-Midjourney：
+Ideogram：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| capa   | a brain split into two halves. The left side appears as a realistic, organic brain structure, with its typical folds and texture. The right side transitions into a pixelated, digital representation, featuring blue, glowing cubes that create a futuristic, technological aesthetic. The contrast symbolizes the merging of biological and artificial intelligence or the intersection of human cognition with digital advancements. The background is dark, emphasizing the glowing blue effect on the digital side. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Ideogram
 
 ## 📚 Materiais
 
